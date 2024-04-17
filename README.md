@@ -36,10 +36,6 @@ O jogo é simples:
 1. Abra o site https://jogo-do-numero-secreto-ten-eta.vercel.app/
 2. Divirta-se 
 
-## Contribuições
-
-Contribuições são sempre bem-vindas! Se você tem uma sugestão para melhorar este jogo, sinta-se à vontade para fazer um fork do repositório e enviar um pull request, ou abrir uma Issue com suas ideias e sugestões.
-
 ## Autor
 
 - [Lucas das Neves](https://github.com/LucasNevesV1)
